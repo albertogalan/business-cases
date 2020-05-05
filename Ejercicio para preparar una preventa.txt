@@ -1,0 +1,55 @@
+
+Appweb Angular 6, Java 1.8, Srping Boot
+
+OS iOS , Android
+Postgres
+Back end API
+
+
+Posible migracion de OnPremise a Cloud Publico sin datos criticos
+
+Fase: aplicaciones en mantenimiento correctivo
+Versiones tardan meses
+
+Scrum como framework agil
+
+Preferencia con Opensource
+
+
+1) Realiza un pequeño diagrama de componentes de alto nivel que refleje la solución propuesta y que
+dé cobertura global al conjunto de aplicaciones.
+
+
+
+
+
+
+
+2) Enumera y describe brevemente qué herramientas propondrías en esta solución para poder realizar
+estos despliegues ágiles.
+3) Propón alguna mejora a nivel metodológico para poder implantar en la organización.
+4) Describe el tipo de perfiles que Ibermática debería proporcionar (no hay volumetrías) para ofrecer el
+servicio.
+5) Enumera y describe brevemente las fa
+fases que debería tener este servicio, teniendo en cuenta que
+hay ya otros proveedores que finalizarán servicio en la empresa cliente con la entrada en vigor de
+esta nueva RFP.
+6) Para la última de las fases propuestas en el punto anterior, pinta un pequeño cro
+cronograma que refleje
+las subtareas a realizar, y una aproximación del tiempo que pueden llevar cada una de ellas.
+7) Describe al menos 3 SLA que propondrías al cliente que pudieran penalizar al proveedor.
+8) Enumera 3 formaciones que se pueden impartir al cliente par que adquiera el conocimiento de la
+solución propuesta, indicando número de jornadas y asistentes aproximado.
+9) Este apartado es independiente de los anteriores. Supón que el conjunto de perfiles y herramientas
+propuestos con sus costes asociados, da un importe de 3 millones de euros. Sabemos que el cliente
+no va a pagar por este servicio más de 2 millones. Describe brevemente qué opciones se te ocurren
+para conseguir adaptar el importe inicial al que quiere el cliente.
+Notas:
+1) El cliente propone que la solución no ocupe más de dos folios (4 caras).. Cualquier extensión por
+encima de eso, invalida la oferta.
+2) No hay una solución única a la oferta. Se trata de justificar la mejor opción y por qué.
+3) La realización del ejercicio no debería superar las 2 horas.
+4) Si hay dudas en cualquiera de los puntos, indica claramente las suposiciones que hagas a la hora de
+escribir la solución.
+
+
